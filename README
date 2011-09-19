@@ -1,0 +1,1 @@
+A simple udp client that look for a server in the network through a broadcast. This client can be used with the UDP - Server project
